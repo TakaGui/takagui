@@ -1,12 +1,16 @@
-### Hi there! 🍙
+# Guilherme Takahashi 👨‍💻
 
-My name is Guilherme Takahashi from Brazil.
+### Hello! 🍙 Welcome to my profile
 
-📖 I’m currently learning NodeJS, ReactJS and ReactNative.
 
-In my free time I like to play basketball (🏀), watch movies (🎞️) and series (📺), read books (📚) and listen to music (🎵).
+- 📖 I’m currently learning NodeJS, ReactJS and ReactNative.
 
-📫 How to reach me:
+- 🥇 Skills: HTML, CSS, JavaScript, Typescript, SQL, NoSQL. 
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/guii_yukio)](https://twitter.com/guii_yukio)
+- 😄 In my free time I like to play basketball (🏀), watch movies (🎞️) and series (📺), read books (📚) and listen to music (🎵).
+
+- 📫 How to reach me:
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-takahashi/)](https://www.linkedin.com/in/guilherme-takahashi/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/guii_yukio)](https://twitter.com/guii_yukio)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gui.yukio175@gmail.com)](mailto:gui.yukio175@gmail.com)
