@@ -4,7 +4,7 @@
 
 <h2>Welcome to my page!</h2>
 <p>
-  I'm Taka, Web developer at <a href="www.digitalrepublic.com.br" target="_blank">Digital Republic</a>
+  I'm Taka, Web developer at <a href="https://www.digitalrepublic.com.br" target="_blank">Digital Republic</a>
 </p>
 
 <br/>
