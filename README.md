@@ -1,21 +1,43 @@
-# Guilherme Takahashi 👨‍💻
+<h1>Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" /></h1>
 
-### Hello! 🍙 Welcome to my profile
+<img align="right" width="40%" src="https://media.giphy.com/media/jtXRDVzaCPXSynUz7h/giphy.gif" alt="Basecamp sky" />
 
+<h2>Welcome to my page!</h2>
+<p>
+  I'm Taka, Web developer at <a href="www.digitalrepublic.com.br" target="_blank">Digital Republic</a>
+</p>
 
-- 📖 I’m currently learning NodeJS, ReactJS and ReactNative.
+<br/>
 
-- 🥇 Skills: HTML, CSS, JavaScript, Typescript, SQL, NoSQL. 
+<h2>Talking about Personal Stuffs</h2>
 
-- 😄 In my free time I like to play basketball (🏀), watch movies (🎞️) and series (📺), read books (📚) and listen to music (🎵).
+- 💻 I’m currently learning ReactJS, React Native and NodeJS; 
 
-- 📫 How to reach me:
+- 💬 Ask me about anything, I am happy to help;
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-takahashi/)](https://www.linkedin.com/in/guilherme-takahashi/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/guii_yukio)](https://twitter.com/guii_yukio)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gui.yukio175@gmail.com)](mailto:gui.yukio175@gmail.com)
+- 😄 In my free time I like to play basketball 🏀, watch movies 🎥 and series 📺, read books 📚 and listen to music 🎶.;
 
----
-Languagens and tools:
+### Where to find me:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takagui&theme=tokyonight&layout=compact)
+<a href="https://www.linkedin.com/in/guilherme-takahashi/" target="_blank">
+  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+</a>
+
+<a href="mailto:taka.gui@outlook.com">
+  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+</a>
+
+<br/><br/>
+
+## My Development Stack
+
+**Application and Data**
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
