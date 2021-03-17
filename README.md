@@ -4,7 +4,7 @@
 
 <h2>Welcome to my page!</h2>
 <p>
-  I'm Taka, Web developer at <a href="https://www.digitalrepublic.com.br" target="_blank">Digital Republic</a>
+  I'm Taka, Web developer
 </p>
 
 <br/>
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about anything, I am happy to help;
 
-- 😄 In my free time I like to play basketball 🏀, watch movies 🎥 and series 📺, read books 📚 and listen to music 🎶.;
+- 😄 In my free time I like to play basketball 🏀, watch movies 🎥 and series 📺, read books 📚 and listen to music 🎶
 
 ### Where to find me:
 
