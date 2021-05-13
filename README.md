@@ -17,7 +17,7 @@
 
 - 😄 In my free time I like to play basketball 🏀, watch movies 🎥 and series 📺, read books 📚 and listen to music 🎶
 
-### Where to find me:
+<h3>Where to find me:</h3>
 
 <a href="https://www.linkedin.com/in/guilherme-takahashi/" target="_blank">
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
@@ -29,9 +29,9 @@
 
 <br/><br/>
 
-## My Development Stack
+<h2>My Development Stack</h2>
 
-**Application and Data**
+<h3>Application and Data<h3>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
